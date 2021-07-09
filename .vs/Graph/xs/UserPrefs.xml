@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0291F756-1508-4D4E-B303-67E463339650}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Graph/Program.cs">
+    <Files>
+      <File FileName="Graph/Graph2.cs" Line="103" Column="28" />
+      <File FileName="Graph/Graph.cs" Line="1" Column="1" />
+      <File FileName="Graph/Graph3.cs" Line="1" Column="1" />
+      <File FileName="Graph/Program.cs" Line="24" Column="38" />
+      <File FileName="Graph/Pair.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Graph" expanded="True">
+            <Node name="Graph" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Graph PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
