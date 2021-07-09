@@ -1,6 +1,0 @@
-/Users/shestakov/Documents/Projects/Graph/Graph/bin/Debug/Graph.exe
-/Users/shestakov/Documents/Projects/Graph/Graph/bin/Debug/Graph.pdb
-/Users/shestakov/Documents/Projects/Graph/Graph/obj/x86/Debug/Graph.csproj.CoreCompileInputs.cache
-/Users/shestakov/Documents/Projects/Graph/Graph/obj/x86/Debug/Graph.exe
-/Users/shestakov/Documents/Projects/Graph/Graph/obj/x86/Debug/Graph.pdb
-/Users/shestakov/Documents/Projects/Graph/Graph/obj/x86/Debug/Graph.csproj.AssemblyReference.cache
